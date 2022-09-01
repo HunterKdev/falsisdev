@@ -1,24 +1,24 @@
 {
 "accounts":{
 "discord": {
-  "nick": "Falsis",
-  "id": "539843855567028227",
-  "url": "https://discord.com/users/539843855567028227"
+  "nick": "HunterK",
+  "id": "937050705594818631",
+  "url": "https://discord.com/users/937050705594818631"
 },
   "github": {
-    "nick": "falsisdev",
+    "nick": "HunterKdev",
    "id": null,
-    "url": "https://github.com/falsisdev"
+    "url": "https://github.com/HunterKdev"
   },
   "spotify": {
-    "nick": "Falsis",
-    "id": "315l5ib3a4fd2obidm76lipspxji?si=fcf653d3bc0d4cb7",
-    "url": "https://open.spotify.com/user/315l5ib3a4fd2obidm76lipspxji?si=fcf653d3bc0d4cb7"
+    "nick": "Hunter",
+    "id": "3144t7fmb7y6oty7ngsdy7q74rzq",
+    "url": "https://open.spotify.com/user/3144t7fmb7y6oty7ngsdy7q74rzq"
   },
   "youtube": {
    "nick": "Falsis",
-   "id": "UCmRc4MxoAXDGaGUMqPaCrwQ",
-   "url": "https://youtube.com/c/Falsis"
+   "id": "hunterkyt",
+   "url": "https://youtube.com/hunterkyt"
   }
          }
 }
