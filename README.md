@@ -1,5 +1,5 @@
 <div class="Introduction" align="center"> 
-<h1>Hi, I'm Falsis <img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30"></h1><br>
+<h1>Hi, I'm Hunter <img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30"></h1><br>
 </div>
 <h1> About Me </h1>
 <a href="https://hunterk.tk"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/937050705594818631"></a>
@@ -10,7 +10,7 @@ Also, I know <a href="https://en.wikipedia.org/wiki/Go_(programming_language)" c
 My Favorite Language is <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" class="Text-red-500"> <font color="yellow">JavaScript</font></a> but I love <a href="https://en.wikipedia.org/wiki/Go_(programming_language)" class="Text-red-500" title="The Go Programming Language"><font color="#add8e6">Go</font></a> so much too...<br></br>
 <a href="https://falsisdev.repl.co/"> Click Here to Visit My Personal Website!</a><br>
 <a href="https://github.com/ani-plus/website">Click here to Visit Ani-Plus Open-Source Project</a><br></br>
-<a href="https://falsis.ga"><img src="https://img.shields.io/badge/os-Windows%2011-slateblue"></a> <a href="https://discord.com/users/937050705594818631"><img src="https://img.shields.io/badge/Falsis%238548-5865F2?style=flat&logo=discord&logoColor=white"></a> <a href="https://hunterk.tk"><img src="https://img.shields.io/badge/Website-D14836?&color=57F287"></a> <a href="https://github.com/HunterKdev"></a>
+<a href="https://falsis.ga"><img src="https://img.shields.io/badge/os-Windows%2011-slateblue"></a> <a href="https://discord.com/users/937050705594818631"><img src="https://img.shields.io/badge/HunterK%238548-5865F2?style=flat&logo=discord&logoColor=white"></a> <a href="https://hunterk.tk"><img src="https://img.shields.io/badge/Website-D14836?&color=57F287"></a> <a href="https://github.com/HunterKdev"></a>
 </div>
 <h2> Technologies </h2> 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterKdev&theme=react&layout=compact" alt="stats"/>
