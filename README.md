@@ -10,7 +10,7 @@ Also, I know <a href="https://en.wikipedia.org/wiki/Go_(programming_language)" c
 My Favorite Language is <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" class="Text-red-500"> <font color="yellow">JavaScript</font></a> but I love <a href="https://en.wikipedia.org/wiki/Go_(programming_language)" class="Text-red-500" title="The Go Programming Language"><font color="#add8e6">Go</font></a> so much too...<br></br>
 <a href="https://falsisdev.repl.co/"> Click Here to Visit My Personal Website!</a><br>
 <a href="https://github.com/ani-plus/website">Click here to Visit Ani-Plus Open-Source Project</a><br></br>
-<a href="https://falsis.ga"><img src="https://img.shields.io/badge/os-Windows%2011-slateblue"></a> <a href="https://discord.com/users/937050705594818631"><img src="https://img.shields.io/badge/HunterK%238548-5865F2?style=flat&logo=discord&logoColor=white"></a> <a href="https://hunterk.tk"><img src="https://img.shields.io/badge/Website-D14836?&color=57F287"></a> <a href="https://github.com/HunterKdev"></a>
+<a href="https://falsis.ga"><img src="https://img.shields.io/badge/os-Windows%2011-slateblue"></a> <a href="https://discord.com/users/937050705594818631"><img src="https://img.shields.io/badge/HunterK%236660-5865F2?style=flat&logo=discord&logoColor=white"></a> <a href="https://hunterk.tk"><img src="https://img.shields.io/badge/Website-D14836?&color=57F287"></a> <a href="https://github.com/HunterKdev"></a>
 </div>
 <h2> Technologies </h2> 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunterKdev&theme=react&layout=compact" alt="stats"/>
@@ -19,11 +19,11 @@ My Favorite Language is <a href="https://en.wikipedia.org/wiki/JavaScript" title
 </div>
 <div class="social">
  <h2> Social Media </h2> 
- <a href="https://instagram.com/iibrahim.35"><img src="https://img.shields.io/badge/falsisdev-323330.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://discord.com/users/937050705594818631"><img src="https://img.shields.io/badge/Falsis%20-323330.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> <a href="https://open.spotify.com/user/3144t7fmb7y6oty7ngsdy7q74rzq"><img src="https://img.shields.io/badge/Falsis%20-323330.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a> <a href="https://github.com/HunterKdev"><img src="https://img.shields.io/badge/FalsisDev%20-323330.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
+ <a href="https://instagram.com/iibrahim.35"><img src="https://img.shields.io/badge/falsisdev-323330.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://discord.com/users/937050705594818631"><img src="https://img.shields.io/badge/HunterK%20-323330.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> <a href="https://open.spotify.com/user/3144t7fmb7y6oty7ngsdy7q74rzq"><img src="https://img.shields.io/badge/HunterK%20-323330.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a> <a href="https://github.com/HunterKdev"><img src="https://img.shields.io/badge/FalsisDev%20-323330.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
  </div>
  <h2> Github Stats </h2>
 <div class="stats" align="center"> 
 <a href="https://github.com/HunterKdev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HunterKdev&show_icons=true&theme=react" width="%100" height="150px" alt="stats"/></a>
-<a href="https://hunterk.tk"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HunterKdevv&theme=react" width="%100" height="150px" alt="stats"/></a>
-<a href="https://github.com/falsisdev"><img align="center" width="775" src="https://activity-graph.herokuapp.com/graph?username=HunterKdev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></a>
+<a href="https://hunterk.tk"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HunterKdev&theme=react" width="%100" height="150px" alt="stats"/></a>
+<a href="https://github.com/HunterKdev"><img align="center" width="775" src="https://activity-graph.herokuapp.com/graph?username=HunterKdev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></a>
 </div>
